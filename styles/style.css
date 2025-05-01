@@ -103,7 +103,7 @@ ol {
 
 .content__list-container {
   position: relative;
-  max-height: 300px;
+  min-height: 300px;
   overflow: auto;
   
   
